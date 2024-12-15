@@ -1,0 +1,7 @@
+Model,Motor RMSE,Total RMSE,Motor Improvement,Total Improvement
+Baseline,5.5319,6.2965,0.00%,0.00%
+Linear,6.7386,9.2387,-21.81%,-46.73%
+KNN,5.8767,6.7133,-6.23%,-6.62%
+Random Forest,5.2895,6.6866,4.38%,-6.20%
+XGBoost,4.7075,6.4647,14.90%,-2.67%
+SVR,5.0729,6.2864,8.30%,0.16%
